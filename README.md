@@ -82,7 +82,7 @@ __Do the following:__
 1. Phrase your action as a question, like “Can I fuck that guy?” or “Do I leap the tentacle pit?” Make it clear and specific.
 1. Create a die pool from the two colored dice, one color will be the Action Dice (AD) and the other your Danger Dice (DD). Begin with one AD. 
    - Add more AD for each helpful tag or advantage you have. Better position, taking your time, and attributes are common bonuses.
-   - Add a DD 8 for every disadvantage affecting your action. Being rushed, a poor position and a threat’s tags often add Danger dice.
+   - Add a DD for every disadvantage affecting your action. Being rushed, a poor position and a threat’s tags often add Danger dice.
 1. Roll the dice. Each DD cancels out a matching AD. The highest remaining AD is your result.
      - Botch: if all the AD are cancelled, the result counts as a roll of “1”.
 1. Consult the Oracle to determine how well you did. Describe the consequences.
