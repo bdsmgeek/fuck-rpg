@@ -72,7 +72,6 @@ Write an interesting instinct, attitude, belief or relationship that your charac
 Record any equipment your character has. Give your character a memento - a small object of personal significance.
 
 > __The first rule__
->
 > Use common sense, consent and the “rule of cool” to guide all that you do. Nothing else matters.
 
 ### Getting Going
