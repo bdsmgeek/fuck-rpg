@@ -2,7 +2,7 @@
 
 A 18AD, for adults only, table top RPG style system based on sex and kinks. Meant to make adventuring with leather, whips and chains; safe, sane and consensual.
 
-Heavily inspired by [Lilith's Throne by Innoxia.](https://lilithsthrone.blogspot.com/) and based in the [FU: Freeform Universal RPG.](https://www.perilplanet.com/freeform-universal/)
+Heavily inspired by [Lilith's Throne by Innoxia.](https://lilithsthrone.blogspot.com/) and based in, but in no way endorsed by the [FU: Freeform Universal RPG system.](https://www.perilplanet.com/freeform-universal/)
 
 Adventurers find themselves transported into a realm governed by __[Lilith]__, who declared all violence outlawed and sex free the way to resolve differences by her divine might.
 
