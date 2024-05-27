@@ -20,6 +20,8 @@ Chokuritsu
 CICD
 corda
 Cordes
+domme
+Dommy
 Dunter
 Esinem
 Faviola

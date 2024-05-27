@@ -24,6 +24,15 @@ This project does its best to adhere to the Github Guidelines and has an establi
       - [Pre-made Adventure Campaigns](#pre-made-adventure-campaigns)
       - [The Dudgeon Masters (DM's) Responsibility](#the-dudgeon-masters-dms-responsibility)
     - [Create the Characters 👥](#create-the-characters-)
+      - [Name](#name)
+      - [Concept](#concept)
+      - [Description](#description)
+      - [Descriptors](#descriptors)
+      - [Drive](#drive)
+      - [Gear](#gear)
+      - [Relationships](#relationships)
+      - [Conditions](#conditions)
+      - [Notes](#notes)
   - [Glossary 📜](#glossary-)
     - [Dungeon Master (DM)](#dungeon-master-dm)
     - [Campaign](#campaign)
@@ -224,6 +233,105 @@ Optionally you may want to include:
 - Relationships
 - Conditions
 - Additional Notes/Details
+
+Some [Pre-made Adventure Campaigns](#pre-made-adventure-campaigns) may also include ready characters for you to play.
+
+#### Name
+
+In __FUCK__ character naming is all up to you! Have fun and don't take it too seriously, make it something memorable so people can easily remember it.
+
+Name tags that people can wear or stand up in front of them can be helpful. 
+
+Examples:
+
+- Kinky Pinky
+- Whiplash Willow
+- Bondage Betty
+- Dommy Daisy
+- Tie Me Up Tessie
+- Submissive Samantha
+- Leather Lacey
+- Flogger Frankie
+- Chain Gang Charlie
+
+#### Concept
+
+A concept in __FUCK__ is a simple phrase or few word descriptor the answers the question:
+
+Who is your character?
+
+Examples:
+
+- Domineering Dominatrix
+- Smooth Submissive
+- Smiling Sadist
+- Muscle Mommy
+
+> [!NOTE]
+>
+> Cliches and archetypes are okay!
+
+#### Description
+
+Your characters description is a paragraph where you expand on your concept, give background and details about:
+
+- How they look?
+- Where are they from?
+- What makes them interesting and uniquely sexy?
+
+Keep this short and sweet, no need to write an essay.
+
+Example:
+
+Dommy Daisy is a active pro domme with lots of experience. When shes not kicking balls or whipping butts she enjoys shopping for leather or latex outfits.
+
+#### Descriptors
+
+These as the most important or interesting features about your character.
+
+Make them short, punch, clear, innate and finite.
+
+Add one for each of the major characteristic groups:
+
+- Body
+- Mind
+- Edge
+- Flaw
+
+#### Drive
+
+What does your character strive for? What do they want, and why can't they get it? What will they do to grasp it?
+
+This is a good place to put a twist into things, spice things up.
+
+#### Gear
+
+What kinky, fun, or interesting things does your character carry?
+
+Figure out two items of Gear and given them a name using a adjective and noun.
+
+Example:
+- Strong Vibrator
+- Wicked Whip
+- Shiny Bodysuit
+
+
+#### Relationships
+
+Does your character know another? How are they connected?
+
+> [!WARNING]
+>
+> These relationship __MUST__ be consensual and negotiated between players.
+> No means no and stop asking.
+
+#### Conditions
+
+Throughout the game your character may be affected by some condition that last for a specific amount of time or until some action is taken.
+
+#### Notes
+
+These can be important bits of information that don't fit elsewhere.
 
 ## Glossary 📜
 
