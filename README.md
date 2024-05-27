@@ -23,7 +23,7 @@ This project does its best to adhere to the Github Guidelines and has an establi
     - [Establish the World 🌎](#establish-the-world-)
       - [Pre-made Adventure Campaigns](#pre-made-adventure-campaigns)
       - [The Dudgeon Masters (DM's) Responsibility](#the-dudgeon-masters-dms-responsibility)
-    - [Create the Characters](#create-the-characters)
+    - [Create the Characters 👥](#create-the-characters-)
   - [Glossary 📜](#glossary-)
     - [Dungeon Master (DM)](#dungeon-master-dm)
     - [Campaign](#campaign)
@@ -94,11 +94,13 @@ Everyone should have at least 2, less then 6 of each:
 - adventure genres / settings
 - kinks/fetishes
 
-Pass your DO sheet to the person next to you, that person then:
+Pass your DO sheet to the person next to you, that person then place a make next to any of the items:
 
-- puts an X (cross/ letter x) after any item they consider a hard limit (non-negotiable boundary)
-- puts an ! (exclamation point) after any item they consider a soft limit (something that needs more negotiation/specific situations).
-- puts an ✔ (check mark) at the end of an item they find very appealing.
+| Mark                  | Meaning                                                  |
+| --------------------- | -------------------------------------------------------- |
+| X (cross/ letter x)   | a hard limit (non-negotiable boundary)                   |
+| ! (exclamation point) | soft limit (needs more negotiation/specific situations). |
+| ✔ (check mark)        | interest, want to have this in the game for sure.        |
 
 Once everyone has their page back, you go around and each person reads out their the items that have X while on person records them on a new page, then the items with ✔ are recorded in the same manor.
 
@@ -114,7 +116,9 @@ Another thing you need to establish before you begin is a way for anyone that ne
 - Need to pause and talk something through.
 - Indicate that they would like to be more involved.
 
-> ❗NOTE❗: No one should feel bad about using these safewords, everyone's safety and sanity come first and foremost. Establishing a buddy system or some physical representations of the safewords can help if people have problems with verbal communication or confrontation.
+> [!IMPORTANT] 
+> 
+> No one should feel bad about using these safewords, everyone's safety and sanity come first and foremost. Establishing a buddy system or some physical representations of the safewords can help if people have problems with verbal communication or confrontation.
 
 Its recommended you use an establish framework for this for simplicity and clear communication, one such framework is the BDSM traffic light 🚦 system:
 
@@ -139,8 +143,8 @@ This process should:
 
 It should NOT:
 
-- be overly detailed broad
-- talk about specific characters
+- be overly detailed/broad
+- talk about specific characters / events
 
 The questions you want to answer in this step is:
 
@@ -153,7 +157,9 @@ The questions you want to answer in this step is:
 - What is the main goal of the adventure?
   - Help get the Championship back on track.
 
-> ❗NOTE❗: __FUCK__ is meant to be about safe, sane, consensual fun. Due to how violence/bloody conflict can introduce triggering and potentially moral and ethic issues, it's highly recommended to implement a no violence rule into your worlds.
+> [!CAUTION] 
+> 
+> __FUCK__ is meant to be about safe, sane, consensual fun. Due to how violence/bloody conflict can introduce triggering and potentially moral and ethic issues, it's highly recommended to implement a no violence rule into your worlds.
 
 Here are some potential ways you can get started:
 
@@ -200,7 +206,7 @@ The DM can populate these with NPCs by creating sheets that have:
 - Conditions: see Conditions for more details.
 - Notes: Any additional information pertinent to the story.
 
-### Create the Characters
+### Create the Characters 👥
 
 Characters in __FUCK__ should sexy and fun, don't try and be to serious or "optimized".
 
