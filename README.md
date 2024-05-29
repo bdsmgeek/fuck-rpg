@@ -34,6 +34,10 @@ This project does its best to adhere to the Github Guidelines and has an establi
       - [Conditions](#conditions)
       - [Notes](#notes)
       - [Non-Player Characters (NPCs)](#non-player-characters-npcs)
+    - [Start the Scene](#start-the-scene)
+      - [Take an Action, Ask a Question](#take-an-action-ask-a-question)
+      - [Roll the Dice](#roll-the-dice)
+      - [Deal with the Consequences](#deal-with-the-consequences)
 
 ## Disclaimer and Warning 🔞⚠
 
@@ -75,11 +79,11 @@ The flow of the game is:
 1. Negotiate the Limits
 2. Establish the World
 3. Create the Characters
-4. Start the Game
-5. Ask a Question
-6. Role the Dice
-7. Deal with the Consequences 
-8. Win the Game
+4. Start the Scene
+   1. Ask a Question
+   2. Role the Dice
+   3. Deal with the Consequences 
+5. Rinse and Repeat Until Done
 
 ### Negotiate the Limits
 
@@ -227,7 +231,11 @@ Optionally you may want to include:
 - Conditions
 - Additional Notes/Details
 
-Some [Pre-made Adventure Campaigns](#pre-made-adventure-campaigns) may also include ready characters for you to play.
+Some [Pre-made Adventure Campaigns](#pre-made-adventure-campaigns) may also include ready Characters for you to play.
+
+> [!NOTE]
+>
+> Players and Characters are separate entities. There are some things that a player might know from the game, but a Character wouldn't. Keep that in mind as you go forward and role play, 
 
 #### Name
 
@@ -340,3 +348,97 @@ Descriptors: Large, Muscly, Not to Bright
 Gear: Leather Harness, Tight shorts
 Conditions: [x] Bored, [ ] Distracted, [ ] Out of Action
 *Notes: There are the same number of Guards as players.
+
+### Start the Scene
+
+Once you have:
+
+- Limits and Safewords Negotiated
+- The World Established
+- The Characters Created
+
+You can start a scene!
+
+A scene is a period in which a specific part of the story plays out usually tied to a location or set of locations, it will involve players making decisions and interacting with the environment.
+
+The DM should set the stage introduce the world and the situation, its up to them as the narrator of the story to build out the framework for the story, and set the stage for the characters.
+
+It's up to you how to want to introduce your characters, its recommended that the DM place them in situations but for the actual players to go around and introduce their characters.
+
+You should make sure everyone understands:
+
+- Where are their characters in the world?
+- How did they get there?
+- Whats going on around them?
+- What are they here to do?
+
+The characters do not need to all start in the same place or at the same time, be creative and make it fun and intriguing.
+
+As you progress Players should be free to make suggestions as to what they'd like to see or if some specifics involving their Characters comes up, however the DM has the final call on it.
+
+> [!NOTE]
+>
+> Use common sense to determine who goes when, at the end of the day the DM has the final say on who does what when.
+
+Once you've established that all that is left to do is:
+
+#### Take an Action, Ask a Question
+
+__FUCK__ relies on players talking about what they will do, roleplaying and asking closed questions.
+
+Closed questions are questions that can only be answered with a "Yes" or "No" statement, in order to interact with the environment in a meaningful way during a scene.
+
+Good questions could be something like:
+
+- Do I make the jump across the tentacle pit?
+- Can I resist the aphrodisiac?
+- Does the guard see me?
+
+Examples of bad questions can include:
+
+- Does the alarm go off if I step on this tile?
+- Where can I find the gold?
+
+Often you'll find that you don't need to ask an explicit question, the action you're taking being a obvious trigger for a roll.
+
+Example: "I try to seduce the succubus"
+
+You can often describe the action and ask "Do I succeed?"
+
+#### Roll the Dice
+
+When rolling in __FUCK__ you always start with one d6.
+
+You then take a sum of any Descriptors or Conditions on your Character, their Gear, the Scene, and the NPC's that is positive, and then a sum of which are negative to the situation.
+
+If the sum of positive Descriptors is higher you take the highest roll, if negatives then the lowest.
+
+Roll as many d6s as the total of the two sums plus the 1.
+
+If there is the same number of positives as there are negatives, takes the highest roll -1.
+
+If there are no positives or negatives, roll the one die and take the result.
+
+So, if there are 2 Character Descriptors one of which is positive and another negative, and the Scene has 3 Descriptors but only 1 affects things negatively the rest are neutral. Then:
+
+- Sum of Positives: 1
+- Sum of Negatives: 2
+- Total D6 to roll: 1+2=3+1=4
+- Since Positives are less then Negatives, take lowest roll.
+
+#### Deal with the Consequences
+
+The outcome of the roll can be dealt with as per this table:
+
+| Roll | Do you get | what you want?                                          |
+| ---- | ---------- | ------------------------------------------------------- |
+| 6    | Yes and... | You get what you want, and something else.              |
+| 5    | Yes...     | You get what you want.                                  |
+| 4    | Yes but... | You get what you want, but at a cost.                   |
+| 3    | No but...  | You don’t get what you want, but it’s not a total loss. |
+| 2    | No...      | You don’t get what you were after.                      |
+| 1    | No and...  | You don’t get what you want, and things get worse.      |
+
+These outcomes are up to the DM to narrate, giving the players optional input if something goes their way.
+
+Once thats done it on to the next characters turn or transition to a new scene!
