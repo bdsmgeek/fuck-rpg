@@ -33,6 +33,7 @@ This project does its best to adhere to the Github Guidelines and has an establi
       - [Relationships](#relationships)
       - [Conditions](#conditions)
       - [Notes](#notes)
+      - [Non-Player Characters (NPCs)](#non-player-characters-npcs)
 
 ## Disclaimer and Warning 🔞⚠
 
@@ -325,3 +326,17 @@ Throughout the game your character may be affected by some condition that last f
 
 These can be important bits of information that don't fit elsewhere.
 
+
+#### Non-Player Characters (NPCs)
+
+The DM will need to create character that the player will interact with, most of the time this just means a slightly less detailed characters that can have some special Notes.
+
+NPCs groups are treated as one entity.
+
+For example:
+
+Name: Beefy Guards
+Descriptors: Large, Muscly, Not to Bright
+Gear: Leather Harness, Tight shorts
+Conditions: [x] Bored, [ ] Distracted, [ ] Out of Action
+*Notes: There are the same number of Guards as players.
